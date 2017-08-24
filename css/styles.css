@@ -41,3 +41,20 @@ body {
 .navbar-inverse {
    background-color: #512DA8;
 }
+
+.custom-control-indicator {
+  background-color:white;
+  border:  1px ridge;
+}
+
+.bg-reserve-table {
+  background-color: orange;
+  color: white;
+}
+
+@media (max-width: 479px) {
+  .radio-inline {
+    display: inline;
+    
+  }
+}
